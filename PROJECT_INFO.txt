@@ -1,3 +1,1 @@
 Вариант 2 лабораторной работы № 2: банковские счета.
-Проект содержит JavaFX-интерфейс, иерархию BankAccount / SavingsAccount / CreditAccount,
-JavaDoc и .gitignore. Для публикации используйте Git -> GitHub -> Share Project on GitHub в IntelliJ IDEA.
